@@ -1,0 +1,44 @@
+.centertime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 65vh;
+}
+
+.sideImage {
+    float: left;
+    margin-right: 10px;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.3em;
+}
+
+.righttime {
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    color:darkmagenta;
+    font-size: 4.5vw;
+    text-align: center;
+}
+
+body {
+    background-color:turquoise;
+    font-size: 100%;
+}
+
+.downTime {
+    position: absolute;
+    bottom: 20px;
+}
+
+img {
+    border-color: black;
+    border: 5px;
+}
